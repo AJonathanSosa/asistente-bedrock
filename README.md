@@ -20,7 +20,7 @@ Un asistente personal inteligente construido con:
 - ☁️ AWS SDK (boto3)
 # Infrastructura
 
-[Infraestructura](Imagenes/Infraestructura.jpg)
+<img src="Imagenes/Infraestrcutura.png" alt="infra" width="200"/>
 
 # Clonar repositorio
 
