@@ -1,4 +1,3 @@
-# asistente-bedrock
 # Asistente Personal con Amazon Bedrock y Streamlit
 
 Es un asistente personal inteligente desarrollado en Streamlit que combina IA Generativa (AWS Bedrock) con la integración de Google Calendar.
