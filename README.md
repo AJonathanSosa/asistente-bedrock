@@ -19,17 +19,16 @@ Un asistente personal inteligente construido con:
 - 🧠 Python + Streamlit
 - ☁️ AWS SDK (boto3)
 
-## 🚀 Cómo usar
+# Clonar repositorio
 
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tu-usuario/asistente-bedrock.git
-   cd asistente-bedrock
 
 # Requirements 
 
 ### Python 
-   - [Version 3.12]("https://www.python.org/downloads/")
+   - [Version 3.12](https://www.python.org/downloads/)
 
 ### Streamlit
    - [Vesion 1.48.0](https://docs.streamlit.io/get-started/installation)
@@ -56,11 +55,11 @@ Un asistente personal inteligente construido con:
 
 <pre> ```bash 
 pipenv shell 
-pip install -r requirements.txt ``` </pre>
+pip install -r requirements.txt </pre>
 
 # Ejecutar proyecto localmente
 
 <pre> ```bash 
-streamlit run bedrock_api.py ``` </pre>
+streamlit run bedrock_api.py </pre>
 
 
