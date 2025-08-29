@@ -56,13 +56,13 @@ Un asistente personal inteligente construido con:
 
 # Entorno
 
-<pre> ```bash 
+```bash 
 pipenv shell 
-pip install -r requirements.txt </pre>
-
+pip install -r requirements.txt
+```
 # Ejecutar proyecto localmente
 
-<pre> ```bash 
-streamlit run bedrock_api.py </pre>
-
+```bash 
+streamlit run bedrock_api.py
+```
 
