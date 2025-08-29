@@ -18,6 +18,9 @@ Un asistente personal inteligente construido con:
 - 🌐 [Amazon Bedrock](https://aws.amazon.com/bedrock/) (Claude v2)
 - 🧠 Python + Streamlit
 - ☁️ AWS SDK (boto3)
+# Infrastructura
+
+[Infraestructura](Imagenes/Infraestructura.jpg)
 
 # Clonar repositorio
 
