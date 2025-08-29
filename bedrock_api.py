@@ -193,13 +193,13 @@ else:
                 st.markdown(f"Tú: {user_input}")
                 st.markdown(f"Nova: {respuesta}")
 
-            # Historial
-            if st.session_state.chat_history:
-                st.markdown("\n\n\n---")
-                st.markdown("### Historial del chat")
-                for entrada in reversed(st.session_state.chat_history):
-                    st.markdown(f"Tú: {entrada['usuario']}")
-                    st.markdown(f"Nova: {entrada['ia']}")
+        # Historial
+        # if st.session_state.chat_history:
+        st.markdown("\n\n\n\n---")
+        st.markdown("### Historial del chat")
+        for entrada in reversed(st.session_state.chat_history):
+            st.markdown(f"Tú: {entrada['usuario']}")
+            st.markdown(f"Nova: {entrada['ia']}")
 
     with col2:
         st.subheader("📋 Tareas pendientes")
